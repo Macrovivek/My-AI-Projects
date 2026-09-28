@@ -3,7 +3,6 @@
 
 [![Live Interactive Portfolio](https://img.shields.io/badge/View_Live-AI_Portfolio-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://macrovivek.github.io/My-AI-Projects/)
 [![Download PDF Portfolio](https://img.shields.io/badge/Download-PDF_Portfolio-22d3ee?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](./Vivekanandan_AI_Portfolio.pdf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivekanandan-nachimuthu-059398164/)
 [![Email](https://img.shields.io/badge/Email-nvivek2822%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nvivek2822@gmail.com)
 
 ---
